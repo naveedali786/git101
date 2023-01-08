@@ -1,1 +1,2 @@
-This is first reprone 
+This is first readmefile
+we are now in githup
